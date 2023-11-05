@@ -1,0 +1,17 @@
+auction_id,auction_date,auction_time,location,features
+1,2023-09-19,12:00:00,Kyiv,Antiques
+2,2023-09-20,14:30:00,,Paintings
+3,2023-09-21,11:45:00,Kharkiv,Silver and Jewelry
+4,2023-09-22,16:15:00,Odessa,Furniture and Wood Crafts
+5,2023-09-23,13:30:00,Dnipro,Ceramics and Porcelain
+6,2023-09-24,15:00:00,Zaporizhia,Antique Paintings
+7,2023-09-25,14:45:00,Lutsk,Coins and Banknotes
+8,2023-09-26,12:30:00,Ivano-Frankivsk,Rare Books
+9,2023-09-27,13:00:00,Ternopil,Sporting Goods
+10,2023-09-28,11:00:00,Rivne,Musical Instruments
+15,2022-10-10,14:20:00,,
+28,,,Sokal,
+29,2022-12-12,12:00:00,Chervonograd,Coin
+31,,,Sokal,
+32,,,Sokal,
+33,,,sokil,
